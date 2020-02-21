@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # File: guessinggame.sh
-# Peer graded assignment for Coursera/JHU The Unix Workbench
+# Peer graded assignment for Coursera/The Unix Workbench
 
 count=$(ls -1 | wc -l)
 
